@@ -1,0 +1,15 @@
+{
+  "name": "electron-first-app",
+  "version": "1.0.0",
+  "description": "an electron first app",
+  "main": "index.js",
+  "scripts": {
+  	"start":"electron ."
+
+  },
+  "author": "Sergio Villegas",
+  "license": "MIT",
+  "devDependencies":{
+  	"electron-prebuilt":"^0.25.1"
+  }
+}
